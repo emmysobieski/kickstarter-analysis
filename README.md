@@ -3,7 +3,7 @@ Performing analysis on kickstarter data to uncover trends as I go through the le
 ### Challenge
 
 In this exercise, we examine the probability of launching a successful kickstarter campaign for a play using 
-[](Kickstarter_Analysis_Challenge.xlsx)
+[Kickstarter Analysis Challenge Full Spreadsheet](Kickstarter_Analysis_Challenge.xlsx), and for convenience I also include []
 
 
 - First we examine the data around which month of the year yeilds the best probability of success and lowest probability of failure of the kickstarter campaign.
