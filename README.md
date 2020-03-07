@@ -41,4 +41,4 @@ LIMITATIONS:
 
 ADDITIONAL TABLES/GRAPHS:
 - Table showing launch dates combined with goal amounts at each date, so we could see what month is most successful at what amount.  Included in this table/graph would be the desired country (sort for US or UK) of launch, and it would be for plays as that removes theater space fundraisings.
-- Data broken down into increments for amounts higher than $50,000 as there are 109 data points lumped in there now.
+- Data broken down into increments for amounts higher than $50,000 as there are 109 data points lumped in this row currently.
