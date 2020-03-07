@@ -2,7 +2,8 @@
 Performing analysis on kickstarter data to uncover trends as I go through the lesson plans
 ### Challenge
 
-In this exercise, we examine the probability of launching a successful kickstarter campaign for a play. 
+In this exercise, we examine the probability of launching a successful kickstarter campaign for a play using
+
 - First we examine the data around which month of the year yeilds the best probability of success and lowest probability of failure of the kickstarter campaign.
 - Second we examine the data around what requested levels of funding yeild the best probability of successful campaign.
 - Then we draw general conclusions and explore the limitations of the data, analysis and make recommendations for additional analysis and data.
