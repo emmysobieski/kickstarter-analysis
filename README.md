@@ -26,6 +26,7 @@ SECOND: Kickstarter Outcomes based on the goal amount the campaign desires to ra
 
 
 ANALYSIS AND CONCLUSIONS from data and chart on Outcomes Based on Goals (for Plays):
+- No kickstarter campaigns for plays were canceled once underway.  The campaigns either failed or were successful.
 - There is a good chance of success (73-76% success rate) for kickstarter campaigns with goals below $5,000.
 - 21% of campaigns have goals of less than $1,000 (with 76% success rate of reaching desired goals), and 53% of campaigns have goals of $1,000 to $4,999 (with a 73% success rate), we have a combination of the highest success and the most campaigns raising money at these levels.
 - In fact, the below $4,999 level is more fairly compared to the other $5,000 increments, in which case 74% of the kickstarter campaigns occur at this level with a 73-76% success rate.
