@@ -20,3 +20,7 @@ LIMITATIONS:
 - The Launch Date Outcomes is for Theater category which includes plays, but the conclusion might have been different for plays, thus May may not be the right month to launch for plays
 - We also do not have a combined dataset showing the correlation between launch date and amount raised, for instance, were many of the successful May launches for the projects above $50,000 and therefore not relevant to a recommendation to launch in May and set a goal of under $4,999.
 - We also did not divide this by geography to look at what months and amounts work best for the country in which the kickstarter campaign will take place.
+
+ADDITIONAL TABLES/GRAPHS:
+- Table showing launch dates combined with goal amounts at each date, so we could see what month is most successful at what amount.  Included in this table/graph would be the desired country (sort for US or UK) of launch, and it would be for plays as that removes theater space fundraisings.
+- Data broken down into increments for amounts higher than $50,000 as there are 109 data points lumped in there now.
