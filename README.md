@@ -2,12 +2,14 @@
 Performing analysis on kickstarter data to uncover trends as I go through the lesson plans
 ### Challenge
 
-![](Outcomes Based on Goals for Plays.png)
+![](Outcomes_Based_on_Launch_Date.png)
 
 CONCLUSIONS from analysis of data on Outcomes Based on Launch Date (for Theater):
 - The month of May appears to be the best time to launch a kickstarter campaign for the parent category, Theater, because May has the highest number of successful campaigns.
 - The month of May also has the largest difference between number of successful campaigns and number of failed campaigns.  
 - Therefore, off this data, it appears that May has the highest potential for success and the lowest relative risk of failure vs success.
+
+![](Outcomes_Based_on_Goals.png)
 
 CONCLUSIONS from analysis of data on Outcomes Based on Goals (for Plays):
 - There is a good chance of success (73-76% success rate) for kickstarter campaigns with goals below $5,000.
