@@ -25,7 +25,7 @@ RECOMMENDATIONS: Based on the data, it appears launching a kickstarter campaign 
 
 LIMITATIONS: 
 - For the higher monetary increments, we do not have enough data points to really glean valuable conclusions
-- The Launch Date Outcomes is for Theater category which includes plays, but the conclusion might have been different for plays, thus May may not be the right month to launch for plays
+- The Launch Date Outcomes is for Theater category which includes plays but also includes campaigns for building out theaters, therefore the conclusion might have been different for only plays, thus the month of May may not actually be the right month to launch for plays.
 - We also do not have a combined dataset showing the correlation between launch date and amount raised, for instance, were many of the successful May launches for the projects above $50,000 and therefore not relevant to a recommendation to launch in May and set a goal of under $4,999.
 - We also did not divide this by geography to look at what months and amounts work best for the country in which the kickstarter campaign will take place.
 
