@@ -2,6 +2,13 @@
 Performing analysis on kickstarter data to uncover trends as I go through the lesson plans
 ### Challenge
 
+In this exercise, we examine the probability of launching a successful kickstarter campaign for a play. 
+- First we examine the data around which month of the year yeilds the best probability of success and lowest probability of failure of the kickstarter campaign.
+- Second we examine the data around what requested levels of funding yeild the best probability of successful campaign.
+- Then we draw general conclusions and explore the limitations of the data, analysis and make recommendations for additional analysis and data.
+
+FIRST: Kickstarter Outcomes based on the month the campaign is launched (Outcomes based on Launch Date) 
+
 
 ![](Outcomes_Based_on_Launch_Date.png)
 
@@ -9,6 +16,9 @@ ANALYSIS AND CONCLUSIONS: from data and chart on Outcomes Based on Launch Date (
 - The month of May appears to be the best time to launch a kickstarter campaign for the parent category, Theater, because May has the highest number of successful campaigns.
 - The month of May also has the largest difference between number of successful campaigns and number of failed campaigns.  
 - Therefore, off this data, it appears that May has the highest potential for success and the lowest relative risk of failure vs success.
+
+
+SECOND: Kickstarter Outcomes based on the goal amount the campaign desires to raise (Outcomes based on Goals) 
 
 
 ![](Outcomes_Based_on_Goals.png)
